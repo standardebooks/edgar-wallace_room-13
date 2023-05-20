@@ -6,14 +6,6 @@
 	text-indent: 0;
 }
 
-#chapter-1 blockquote:first-of-type{
-	border: 1px solid;
-	margin: 1em auto;
-	max-width: 100%;
-	padding: 2em;
-	width: 20em;
-}
-
 #chapter-1 blockquote:last-of-type p{
 	text-align: initial;
 	text-indent: 1em;
