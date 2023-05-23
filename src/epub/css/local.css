@@ -1,5 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
 
 #chapter-1 blockquote:first-of-type,
 #chapter-1 blockquote:nth-of-type(2){
@@ -10,9 +11,6 @@
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
-
-
-@namespace xml "http://www.w3.org/XML/1998/namespace";
 
 blockquote[xml|lang]{
 	font-style: italic;
