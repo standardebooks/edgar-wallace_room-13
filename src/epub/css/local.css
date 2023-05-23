@@ -10,3 +10,10 @@
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
+
+
+@namespace xml "http://www.w3.org/XML/1998/namespace";
+
+blockquote[xml|lang]{
+	font-style: italic;
+}
