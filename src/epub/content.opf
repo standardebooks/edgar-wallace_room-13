@@ -43,7 +43,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks05/0501201h.html</dc:source>
 		<dc:source>https://archive.org/details/detectivescrimin0000unse/mode/2up</dc:source>
-		<meta property="se:word-count">61008</meta>
+		<meta property="se:word-count">61009</meta>
 		<meta property="se:reading-ease.flesch">84.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Room_13</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_room-13</meta>
