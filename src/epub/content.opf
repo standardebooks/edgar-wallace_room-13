@@ -34,6 +34,9 @@
 		<meta property="term" refines="#subject-1">sh85037269</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">J. G. Reeder</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A recently-released prisoner discovers that his love, the daughter of an old friend, has married a sinister imposter.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;After having spent almost three years in prison Johnny Gray is released, only to be dismayed to find that his ladylove has been pressured by her father, an old friend of his, into marrying another man. Soon after, Johnny discovers that the bridegroom is actually a suspected counterfeiter and the son of a notorious criminal plotting to ruin his friend by exposing his nefarious past.&lt;/p&gt;
