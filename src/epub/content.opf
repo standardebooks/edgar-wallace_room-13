@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edgar-wallace/room-13</dc:identifier>
 		<dc:date>2023-05-24T23:22:45Z</dc:date>
@@ -39,12 +39,12 @@
 		<meta id="collection-1" property="belongs-to-collection">J. G. Reeder</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">A recently-released prisoner discovers that his love, the daughter of an old friend, has married a sinister imposter.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A recently-released prisoner discovers that his love, the daughter of an old friend, has married a sinister imposter.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;After having spent almost three years in prison Johnny Gray is released, only to be dismayed to find that his ladylove has been pressured by her father, an old friend of his, into marrying another man. Soon after, Johnny discovers that the bridegroom is actually a suspected counterfeiter and the son of a notorious criminal plotting to ruin his friend by exposing his nefarious past.&lt;/p&gt;
 			&lt;p&gt;Johnny is determined to foil the plot and bring the counterfeiter and his father to justice—but first he needs to rescue the new bride. Surprisingly, the trail brings Johnny back to prison.&lt;/p&gt;
 			&lt;p&gt;Published in 1924, &lt;i&gt;Room 13&lt;/i&gt; was adapted for film in 1938 and 1964.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks05/0501201h.html</dc:source>
 		<dc:source>https://archive.org/details/detectivescrimin0000unse</dc:source>
