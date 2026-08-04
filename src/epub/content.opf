@@ -39,7 +39,7 @@
 		<meta id="collection-1" property="belongs-to-collection">J. G. Reeder</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>A recently-released prisoner discovers that his love, the daughter of an old friend, has married a sinister imposter.</dc:abstract>
+		<meta property="schema:abstract">A recently-released prisoner discovers that his love, the daughter of an old friend, has married a sinister imposter.</meta>
 		<dc:description>
 			&lt;p&gt;After having spent almost three years in prison Johnny Gray is released, only to be dismayed to find that his ladylove has been pressured by her father, an old friend of his, into marrying another man. Soon after, Johnny discovers that the bridegroom is actually a suspected counterfeiter and the son of a notorious criminal plotting to ruin his friend by exposing his nefarious past.&lt;/p&gt;
 			&lt;p&gt;Johnny is determined to foil the plot and bring the counterfeiter and his father to justice—but first he needs to rescue the new bride. Surprisingly, the trail brings Johnny back to prison.&lt;/p&gt;
