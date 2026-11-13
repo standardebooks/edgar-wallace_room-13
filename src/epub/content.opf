@@ -50,7 +50,7 @@
 		<dc:source>https://archive.org/details/detectivescrimin0000unse</dc:source>
 		<meta property="schema:wordCount">59152</meta>
 		<meta property="schema:educationalLevel">84.78</meta>
-		<link href="https://en.wikipedia.org/wiki/Room_13" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Room_13_(Wallace_novel)" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/edgar-wallace_room-13" refines="#vcs-repository" rel="schema:codeRepository"/>
